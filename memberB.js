@@ -1,11 +1,9 @@
 'use strict';
 
-let myAge = 23;
-let myMonth = 'August'
+let countless = '8⤵️'
 
 const count = () => {
-  console.log(myAge);
-  console.log(myMonth);
+  console.log('Counting the countless ' + countless);
 };
 
 count();
