@@ -1,9 +1,10 @@
 'use strict';
 
 let myAge = 23;
+let myMonth = 'December'
 
 const count = () => {
-  console.log(myAge);
+  console.log(myMonth);
 };
 
 count();
