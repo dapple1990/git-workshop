@@ -1,3 +1,3 @@
 const cheer = () => {
-  console.log('💚A M A Z O N I T E💚');
+  console.log('💚J(oz)S(i)💚');
 };
