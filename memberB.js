@@ -2,7 +2,7 @@
 
 let myAge = 23;
 
-function count() {
+const count = () => {
   console.log(myAge);
 };
 
