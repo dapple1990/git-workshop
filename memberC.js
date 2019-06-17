@@ -1,3 +1,3 @@
-const cheer = () => {
-  console.log('💚J(oz)S(i)💚');
+const cheer = (name) => {
+  console.log('Cheer for the' , '💚J(oz)S(i)💚');
 };
